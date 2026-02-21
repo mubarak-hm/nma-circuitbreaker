@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class NmaCircuitbreakerApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(NmaCircuitbreakerApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(NmaCircuitbreakerApplication.class, args);
+    }
 
 }
