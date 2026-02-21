@@ -1,6 +1,6 @@
 #  Custom Java Circuit Breaker
 
-A lightweight circuit breaker implementation in Java with sliding-window failure rate tracking and scheduler-based recovery — designed to help y understand resilience patterns 
+A lightweight circuit breaker implementation in Java with sliding-window failure rate tracking and scheduler-based recovery — designed to help  understand resilience patterns 
 
 This implementation is inspired by production libraries like Resilience4j, but built from scratch so the internal mechanics are clear and customizable.
 
